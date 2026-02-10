@@ -167,3 +167,19 @@ We may update this Privacy Policy when required.
 - Continued use = acceptance of updated terms  
 
 ---
+
+
+---
+
+## 📢 Community & Updates
+
+For tool updates, configuration guides, release notes, and issue announcements, join the official Telegram channel and community group.
+
+**Main Channel:** [Join Here](https://t.me/blinkitod)  
+**Community Group:** [Join Discussions](https://t.me/+FIVvUIjZiapkNjA1)
+
+Stay updated
+---
+
+<sub>Made by an anonymous developer • deyen • future-focused builder</sub>
+
